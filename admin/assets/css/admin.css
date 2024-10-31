@@ -1,0 +1,17 @@
+a.nav-tab {
+    margin-bottom: -4px;
+}
+
+.breath {
+    padding: 7px;
+    margin: 5px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+}
+
+input {
+    width: 250px;
+}
